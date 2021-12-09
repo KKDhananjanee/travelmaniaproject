@@ -1,2 +1,0 @@
-# travelmaniaproject
-java software project
